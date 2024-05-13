@@ -1,0 +1,21 @@
+.track {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* gap: 0.5rem; */
+
+  }
+
+  .track__info{
+    
+      gap: 0.01rem;
+  }
+
+  .track__info__track__name{
+    color: white;
+  }
+
+  .track__info__track__artists{
+    color: #b3b3b3;
+   
+}
